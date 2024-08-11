@@ -1,6 +1,6 @@
 # Online food delivery system
 
-To design an attractive webpage for an online food delivery system using HTML and CSS, craft a user-friendly interface with navigation, engaging content sections, and responsive design to enhance the overall dining experience. Also add the basic pages “Home,” “About,” “Menu,” and “Contact Us,” featuring the company logo
+> To design an attractive webpage for an online food delivery system using HTML and CSS, craft a user-friendly interface with navigation, engaging content sections, and responsive design to enhance the overall dining experience. Also add the basic pages “Home,” “About,” “Menu,” and “Contact Us,” featuring the company logo
 “Online FoodShop”.
 
 > Preview Image -
