@@ -6,7 +6,7 @@
 > Preview Image -
 ![image](https://github.com/user-attachments/assets/dc5c2090-7608-4a9f-b9a1-2ce6e320a81b)
 
-Steps to Design Online Food Delivery WebPage:
+ >Steps to Design Online Food Delivery WebPage
 
 > First, Implement a navigation bar with a logo and links for “Home,” “About,” “Menu,” and “Contact Us” in the HTML structure.
 
